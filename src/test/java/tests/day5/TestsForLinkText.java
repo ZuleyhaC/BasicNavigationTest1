@@ -10,7 +10,7 @@ public class TestsForLinkText {
 //      <a href="/autocomplete">Autocomplete</a>
 //        Autocomplete - it's the text that you see
         driver.findElement(By.linkText("Autocomplete")).click();
-        Thread.sleep(3000);
+        Thread.sleep(5000);
         driver.quit();
     }
 }
