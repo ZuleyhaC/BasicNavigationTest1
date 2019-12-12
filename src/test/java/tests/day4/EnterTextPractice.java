@@ -21,5 +21,6 @@ public class EnterTextPractice {
         button.click();
         BrowserUtils.wait(2);
         driver.close();
+
     }
 }

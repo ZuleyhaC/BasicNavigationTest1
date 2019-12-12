@@ -31,5 +31,7 @@ public class FindElementsTest {
         //wait for 2 seconds
         BrowserUtils.wait(2);
         driver.close();
+
+
     }
 }
