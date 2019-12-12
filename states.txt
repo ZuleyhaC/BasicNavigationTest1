@@ -1,0 +1,10 @@
+NY
+GA
+PA
+CT
+FL
+CA
+MA
+TX
+NJ
+AL
