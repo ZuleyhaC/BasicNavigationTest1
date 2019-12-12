@@ -3,4 +3,5 @@ dog
 lion
 tiger
 rabbit
-
+elephant
+kangoroo
